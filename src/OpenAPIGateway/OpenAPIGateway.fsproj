@@ -2,9 +2,9 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
-        <AssemblyName>NecrochronicleAPI</AssemblyName>
         <EnableDefaultContentItems>false</EnableDefaultContentItems>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <PackageId>OpenAPIGateway</PackageId>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Giraffe" Version="6.4.0"/>
